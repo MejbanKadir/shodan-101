@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🔍 The Ultimate Shodan Search Guide</h1>
   <p><b>Advanced Reconnaissance, Exposed Asset Discovery, and Ethical Reporting</b></p>
-  <p><i>Authored by <a href="https://github.com/mejbankadir">Mezban Kadir</a> (Security Researcher, Developer & Trader)</i></p>
+  <p><i>Authored by <a href="https://github.com/mejbankadir">Mejban Kadir</a> (Security Researcher, Developer & Trader)</i></p>
 </div>
 
 ---
