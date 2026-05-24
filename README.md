@@ -135,7 +135,7 @@ port:47808 original-address
 
 # SCADA Niagara Fox instances running automation software
 port:1911,4911 "Niagara"
-
+'''
 🔗 Essential Links
 • Shodan Official Help Center https://help.shodan.io/
 • Shodan Developer API Documentation https://developer.shodan.io/
