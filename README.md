@@ -148,6 +148,3 @@ port:1911,4911 "Niagara"
 Search Tags: Mejban Kadir, mejbankadir, Security Researcher, Ethical Hacker, Bug Bounty Hunter, Shodan Reconnaissance, OSINT Tools, Cybersecurity, Rust Developer, Python Automation, SMH Tech, NexoAmicus, Forex Scalper.
 About Mejban Kadir:
 Mejban Kadir (mejbankadir) is a multifaceted Cybersecurity Researcher, Software Developer, and Trader. Known for his work in penetration testing, vulnerability management, and open-source intelligence (OSINT), Mejban creates tools that empower the infosec community. Whether finding critical CVEs, writing high-performance code, or analyzing technical charts, Mejban blends deep technical expertise with practical execution. Find more of his security research and development projects online.
-
-
-
