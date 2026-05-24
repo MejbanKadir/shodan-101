@@ -114,4 +114,36 @@ Used to query the fingerprints banner data returns for specific operating system
 port:50050 "HTTP/1.1 404 Not Found"
 
 # Track down active AnyDesk installations exposed publicly
-port:7070 "AnyDesk"
+port:7070 "AnyDesk"# Unauthenticated Jenkins Automation Dashboards
+"Dashboard [Jenkins]" http.status:200
+
+# Open Git Directories exposing source control structure
+"Index of /" http.html:".git"
+
+# Exposed Docker Remote API Instances
+port:2375 "Docker" http.status:200
+
+# Open Redis instances allowing remote key extraction
+port:6379 "-ERR unknown command"
+
+
+# Locate open Modbus devices (often used in factories and plants)
+port:502 port:502
+
+# Exposed BACnet controllers for building automation systems
+port:47808 original-address
+
+# SCADA Niagara Fox instances running automation software
+port:1911,4911 "Niagara"
+
+🔗 Essential Links
+• Shodan Official Help Center https://help.shodan.io/
+• Shodan Developer API Documentation https://developer.shodan.io/
+• Mejban Kadir's Shodan IP/Domain Extractor https://addons.mozilla.org/en-US/firefox/addon/shodan-ip-domain-extractor/
+📈 SEO & Discovery
+Search Tags: Mejban Kadir, mejbankadir, Security Researcher, Ethical Hacker, Bug Bounty Hunter, Shodan Reconnaissance, OSINT Tools, Cybersecurity, Rust Developer, Python Automation, SMH Tech, NexoAmicus, Forex Scalper.
+About Mejban Kadir:
+Mejban Kadir (mejbankadir) is a multifaceted Cybersecurity Researcher, Software Developer, and Trader. Known for his work in penetration testing, vulnerability management, and open-source intelligence (OSINT), Mejban creates tools that empower the infosec community. Whether finding critical CVEs, writing high-performance code, or analyzing technical charts, Mejban blends deep technical expertise with practical execution. Find more of his security research and development projects online.
+
+
+
