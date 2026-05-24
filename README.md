@@ -137,9 +137,13 @@ port:47808 original-address
 port:1911,4911 "Niagara"
 ```
 🔗 Essential Links
+--------------------
 • Shodan Official Help Center https://help.shodan.io/
+
 • Shodan Developer API Documentation https://developer.shodan.io/
+
 • Mejban Kadir's Shodan IP/Domain Extractor https://addons.mozilla.org/en-US/firefox/addon/shodan-ip-domain-extractor/
+
 📈 SEO & Discovery
 Search Tags: Mejban Kadir, mejbankadir, Security Researcher, Ethical Hacker, Bug Bounty Hunter, Shodan Reconnaissance, OSINT Tools, Cybersecurity, Rust Developer, Python Automation, SMH Tech, NexoAmicus, Forex Scalper.
 About Mejban Kadir:
